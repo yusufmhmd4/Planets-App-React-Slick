@@ -1,0 +1,21 @@
+.planet-image {
+  width: 300px;
+  height: 220px;
+  margin: auto;
+}
+.planet-heading {
+  font-family: roboto;
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: 600;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+}
+.planet-description {
+  font-family: roboto;
+  font-size: 15px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 400;
+}
